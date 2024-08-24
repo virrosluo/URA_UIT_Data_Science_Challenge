@@ -1,0 +1,23 @@
+# API Server
+fastapi==0.92.0
+uvicorn==0.20.0
+requests
+
+# nli
+torch
+transformers
+scikit-learn
+sentencepiece
+protobuf
+
+# retrieval
+sentence-transformers
+nltk
+pandas
+
+# checker
+py_vncorenlp
+vncorenlp
+phonlp
+
+numpy==1.23.5
